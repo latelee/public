@@ -5,5 +5,5 @@ Stargazers over time
 [![Stargazers over time](https://starcharts.herokuapp.com/latelee/H264BSAnalyzer.svg)](https://starcharts.herokuapp.com/latelee/H264BSAnalyzer)
 
 Donate the author <br>
-捐赠作者：
+捐赠作者：  
 ![Donate](https://github.com/latelee/public/raw/master/latelee_pay_312.png)
